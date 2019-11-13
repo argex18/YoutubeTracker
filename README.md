@@ -9,7 +9,7 @@
 
     2) Python 2.7 or Python 3.5+
 
-    3) An OAuth 2.0 client ID to submit an authorized request that retrieves          information about your own YouTube channel.
+    3) An OAuth 2.0 client ID to submit an authorized request that retrieves information about your own YouTube channel.
        In case you didn't have one, i'd highly recommend you to read the official Google documentation: https://developers.google.com/youtube/v3/quickstart/python#step_1_set_up_your_project_and_credentials
 
 # HOW TO USE THE SCRIPTS:
